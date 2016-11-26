@@ -6,3 +6,5 @@ git diff --cached
 git huancunqu
 first modify
 second modify
+work ear modify
+cached ear modify
