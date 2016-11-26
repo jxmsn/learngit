@@ -4,3 +4,5 @@ GIT is open project.
 git diff
 git diff --cached
 git huancunqu
+first modify
+second modify
